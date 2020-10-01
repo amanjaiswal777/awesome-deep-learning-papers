@@ -146,6 +146,10 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 <!---[Key researchers]  [Alex Graves](https://scholar.google.ca/citations?user=DaFHynwAAAAJ)-->
 
 ### Natural Language Processing / RNNs
+- **Language Models are Few-Shot Learners** (2020), Tom B. Brown et al. [[pdf]](https://arxiv.org/pdf/2005.14165v4.pdf)
+- **Transformers: State-of-the-Art Natural Language Processing** (2020), Thomas Wolf et al. [[pdf]](https://arxiv.org/pdf/1910.03771v5.pdf)
+- **Language Models are Unsupervised Multitask Learners** (2019), Alec Radford et al. [[pdf]](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)
+- **AllenNLP: A Deep Semantic Natural Language Processing Platform** (2018), Matt Gardner et al. [[pdf]](https://arxiv.org/pdf/1803.07640v2.pdf)
 - **Neural Architectures for Named Entity Recognition** (2016), G. Lample et al. [[pdf]](http://aclweb.org/anthology/N/N16/N16-1030.pdf)
 - **Exploring the limits of language modeling** (2016), R. Jozefowicz et al. [[pdf]](http://arxiv.org/pdf/1602.02410)
 - **Teaching machines to read and comprehend** (2015), K. Hermann et al. [[pdf]](http://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
